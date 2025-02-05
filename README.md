@@ -6,7 +6,7 @@ This repository contains a Jupyter notebook with my solutions to various LeetCod
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Mukul90/Leet_Code_Practice.git
+    git clone https://github.com/Mukul98/Leet_Code_Practice.git
     ```
 2. Navigate to the repository directory:
     ```bash
